@@ -1,0 +1,1 @@
+ /Users/adheraspain/StudioProjects/apliacionnueva/.dart_tool/flutter_build/a009e1675bb510c444f88747771bed3c/native_assets.yaml: 

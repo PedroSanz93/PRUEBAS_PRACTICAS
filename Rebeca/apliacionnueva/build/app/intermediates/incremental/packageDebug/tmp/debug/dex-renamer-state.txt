@@ -1,0 +1,4 @@
+#Wed Apr 10 14:21:34 CEST 2024
+base.0=/Users/adheraspain/StudioProjects/apliacionnueva/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
